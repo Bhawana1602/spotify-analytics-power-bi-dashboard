@@ -97,10 +97,12 @@ The report contains **4 interactive pages**:
 
 ## 📂 Project Folder Structure
 
-Spotify-PowerBI-Dashboard/ │ ├── 📁 Dataset/ │ └──
-spotify_top50_dataset.csv │ ├── 📁 Dashboard/ │ └──
-Spotify_Global_Trends.pbix │ ├── 📁 Screenshots/ │ ├── Home.png │ ├──
-Overview.png │ ├── Artists.png │ └── Songs.png │ └── README.md
+spotify-analytics-power-bi-dashboard/
+│
+├── Dataset/        → Spotify dataset used for analysis
+├── Dashboard/      → Power BI dashboard file (.pbix)
+├── Screenshots/    → Dashboard preview images
+└── README.md       → Project documentation
 
 ------------------------------------------------------------------------
 
