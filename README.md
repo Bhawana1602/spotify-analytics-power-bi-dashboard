@@ -95,7 +95,7 @@ The report contains **4 interactive pages**:
 
 ------------------------------------------------------------------------
 
-## 📂 Project Folder Structure
+## 📂 Project Structure
 
 spotify-analytics-power-bi-dashboard/
 │
